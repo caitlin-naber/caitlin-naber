@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Caitlin.
 - 👀 I’m interested in making things work, and work better for people.
 - 🌱 I’m currently learning all things Python🐍 with a little SQL on the side.
-- 💞️ I’m looking to collaborate on [soooooon].
 - 📫 How to reach me: caitlin.naber@gmail.com
